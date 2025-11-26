@@ -1,7 +1,7 @@
-### Hi! I'm Shanna. I recently graduated from USC with my Master's in Translational Biomedical Informatics. 👋
+### Hi! I'm Shanna. I'm currently working as a Research Programmer at USC. 👋
 
 - 📫 How to reach me: badhesha@usc.edu
-- 🤔 I’m looking for bioformatician, data analysis or data science roles. 
+- 🤔 I have a MS in Translational Biomedical Informatics from USC and a year experience as a programmer.
 - 👯 I’m looking to collaborate on machine learning, data analysis or bioinformatics projects.
 - 🔭 I’m interested in bioinformatics, precision medicine, translational genomics and metholodical analysis. 
 
