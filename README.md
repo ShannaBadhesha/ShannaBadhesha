@@ -1,4 +1,4 @@
-### Hi! I'm Shanna. I'm currently working as a Research Programmer at USC. 👋
+### Hi! I'm Shanna 👋
 
 - 📫 How to reach me: badhesha@usc.edu
 - 🤔 I have a MS in Translational Biomedical Informatics from USC and a year experience as a programmer.
